@@ -1,0 +1,23 @@
+{
+  "name": "meu-projeto-react-native",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "start": "react-native start",
+  "android": "react-native run-android",
+  "ios": "react-native run-ios"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-native-community/cli": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-native": "^0.76.1",
+    "react-native-gesture-handler": "^2.20.2",
+    "react-native-reanimated": "^3.16.1"
+  }
+}
